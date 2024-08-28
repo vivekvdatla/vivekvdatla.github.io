@@ -99,13 +99,15 @@ Professional Experience
 
 * Leading the IR Team for Agent Assist to built the SOTA RAG system for helping thousands Customer Support Agents across several LoBs.
 
-* Lead high-performing teams in the design, implementation, and optimization of deep learning models, leveraging advanced techniques such as model perturbations to enhance robustness, generalization, and adversarial resilience.
+* Building Enhanced IR systems through integration of cross-encoder re-rankers, hybrid search methodologies, and dynamic hybrid configurations. Key optimization paths included user preference re-ranking, ranked fusion strategies, entropy-based top preference selection, and nucleus thresholding for retrieval.
 
-* Built and managed end-to-end NLP projects, from conceptualization and data acquisition to model training, evaluation, and deployment, ensuring the effective utilization of LLMs.
+* Leading high-performing teams in the design, implementation, and optimization of deep learning models, leveraging advanced techniques such as model perturbations to enhance robustness, generalization, and adversarial resilience.
+
+* Building and managing end-to-end NLP projects, from conceptualization and data acquisition to model training, evaluation, and deployment, ensuring the effective utilization of LLMs.
 
 * Built several deep learning models in the area of question answering, text generation, with a focus on implementing and fine-tuning LLMs, deploying scalable and efficient NLP systems.
 
-* Collaborated with cross-functional teams, including researchers, data scientists, software engineers, and business stakeholders, to translate complex business requirements into actionable technical strategies, drive successful project execution, and deliver impactful results in the areas of AI, NLP and deep learning.
+* Collaborating with cross-functional teams, including researchers, data scientists, software engineers, and business stakeholders, to translate complex business requirements into actionable technical strategies, drive successful project execution, and deliver impactful results in the areas of AI, NLP and deep learning.
 
 
 
