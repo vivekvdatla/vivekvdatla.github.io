@@ -20,7 +20,7 @@ Career Highlights
 * **64 Invention Disclosures** filed in the area of NLP and AI
 * **30 publications** in reputed journals and conferences.
 * **10 technology transfers** to various Philips businesses.
-* Received around **1500 external citations** as listed on Google Scholar.
+* Received around **1700 external citations** as listed on Google Scholar.
 
 
 
