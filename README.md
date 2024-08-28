@@ -39,7 +39,7 @@ Technologies
 + Big Data: Spark, Kafka, Hadoop, RabbitMQ, MapReduce, ElasticSearch
 + Visualization: Plotly, Dash, Seaborne, Matplotlib
 + Applications: Jupyter, Docker, Kubernetes, Swarm, Airflow, AWS, Pycharm, Git, Postman
-+ Databases: MongoDB, Redis, PostgreSQL, MySQL
++ Databases: MongoDB, Redis, PostgreSQL, MySQL, Snowflake, DataBricks
 + Other: Linux, Git, Github Actions, Black, Bash/Shell Scripting
 + Cloud Platforms: AWS, Azure, Sagemaker
 
@@ -92,10 +92,11 @@ Granted Patents
 
 Professional Experience
 ----------
-2022-Present 
+2022-2024 
 
 : **Manager, Data Science (AI & NLP), Enterprise Data Science, CapitalOne, Cambridge, MA**
 
+* Lead the IR Team for Agent Assist to built the SOTA RAG system for helping thousands Customer Support Agents across several LoBs.
 
 * Lead high-performing teams in the design, implementation, and optimization of deep learning models, leveraging advanced techniques such as model perturbations to enhance robustness, generalization, and adversarial resilience.
 
