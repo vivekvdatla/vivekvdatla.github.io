@@ -92,6 +92,22 @@ Granted Patents
 
 Professional Experience
 ----------
+2024-Present
+
+: **Sr.Manager, Data Science (AI & NLP), Enterprise Data Science, CapitalOne, Cambridge, MA**
+
+* Leading the IR Team for Agent Assist to built the SOTA RAG system for helping thousands Customer Support Agents across several LoBs.
+
+* Lead high-performing teams in the design, implementation, and optimization of deep learning models, leveraging advanced techniques such as model perturbations to enhance robustness, generalization, and adversarial resilience.
+
+* Built and managed end-to-end NLP projects, from conceptualization and data acquisition to model training, evaluation, and deployment, ensuring the effective utilization of LLMs.
+
+* Built several deep learning models in the area of question answering, text generation, with a focus on implementing and fine-tuning LLMs, deploying scalable and efficient NLP systems.
+
+* Collaborated with cross-functional teams, including researchers, data scientists, software engineers, and business stakeholders, to translate complex business requirements into actionable technical strategies, drive successful project execution, and deliver impactful results in the areas of AI, NLP and deep learning.
+
+
+
 2022-2024 
 
 : **Manager, Data Science (AI & NLP), Enterprise Data Science, CapitalOne, Cambridge, MA**
