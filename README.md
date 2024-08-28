@@ -13,14 +13,13 @@ Education
 Career Highlights
 --------------------
 * Researcher with more than 15 years of Academic and Industry research
-* Research and deployment of production-ready systems that use Machine Learning (ML) and Deep Learning (DL) models in the areas of NLP, knowledge graphs (KG) and information retrieval (IR).
-* Proven track record of building SOTA systems from design to deployment in the areas of IR, Question Answering, Visual Question Answering, Knowledge Graphs and RAGs.
+* Research and deployment of production-ready systems that use Machine Learning (ML) and Deep Learning (DL) models in the areas of IR, Question Answering, Visual Question Answering, Knowledge Graphs and RAGs. 
 * **15 granted patents** in the area of NLP and AI
 * **35 patents filed** in the area of NLP and AI
 * **64 Invention Disclosures** filed in the area of NLP and AI
 * **30 publications** in reputed journals and conferences.
 * **10 technology transfers** to various Philips businesses.
-* Received around **1700 external citations** as listed on Google Scholar.
+* Received around **1700 external citations** as listed on [Google Scholar](https://scholar.google.com/citations?user=Y-BH9OEAAAAJ&hl=en&oi=ao).
 
 
 
