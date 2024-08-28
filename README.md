@@ -813,9 +813,3 @@ Professional Activities
     + American Association for Artificial Intelligence: FLAIRS - 2016 
     + American Association for Artificial Intelligence: Applied Natural Language Processing-FLAIRS - 2015 
     + IEEE WORKS - 2014 
-
-
-
-References
----
-+ Available upon request
