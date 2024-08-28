@@ -96,17 +96,17 @@ Professional Experience
 
 : **Sr.Manager, Data Science (AI & NLP), Enterprise Data Science, CapitalOne, Cambridge, MA**
 
-* Leading the IR Team for Agent Assist to built the SOTA RAG system for helping thousands Customer Support Agents across several LoBs.
+* Led the IR Team for Agent Assist in developing a state-of-the-art RAG system to support thousands of customer support agents across various lines of business.
 
-* Building Enhanced IR systems through integration of cross-encoder re-rankers, hybrid search methodologies, and dynamic hybrid configurations. Key optimization paths included user preference re-ranking, ranked fusion strategies, entropy-based top preference selection, and nucleus thresholding for retrieval.
+* Enhanced IR systems by integrating cross-encoder re-rankers, hybrid search methodologies, and dynamic configurations. Key optimization strategies included user preference re-ranking, ranked fusion, entropy-based selection of top preferences, and nucleus thresholding for retrieval.
 
-* Leading high-performing teams in the design, implementation, and optimization of deep learning models, leveraging advanced techniques such as model perturbations to enhance robustness, generalization, and adversarial resilience.
+* Directed high-performing teams in designing, implementing, and optimizing deep learning models, employing advanced techniques such as model perturbations to improve robustness, generalization, and adversarial resilience.
 
-* Building and managing end-to-end NLP projects, from conceptualization and data acquisition to model training, evaluation, and deployment, ensuring the effective utilization of LLMs.
+* Managed end-to-end NLP projects, from conceptualization and data acquisition to model training, evaluation, and deployment, ensuring effective utilization of LLMs.
 
-* Built several deep learning models in the area of question answering, text generation, with a focus on implementing and fine-tuning LLMs, deploying scalable and efficient NLP systems.
+* Developed and fine-tuned deep learning models for question answering and text generation, focusing on scalable and efficient NLP system deployment.
 
-* Collaborating with cross-functional teams, including researchers, data scientists, software engineers, and business stakeholders, to translate complex business requirements into actionable technical strategies, drive successful project execution, and deliver impactful results in the areas of AI, NLP and deep learning.
+* Collaborated with cross-functional teams—including researchers, data scientists, software engineers, and business stakeholders—to translate complex business requirements into actionable technical strategies, ensuring successful project execution and impactful results in AI, NLP, and deep learning.
 
 
 
