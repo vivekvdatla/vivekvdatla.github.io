@@ -102,7 +102,7 @@ Professional Experience
 ----------
 2024-Present
 
-: ** Sr. Tech Lead (IC Sr.Manager), Data Science (AI & NLP), Enterprise Data Science, CapitalOne, Cambridge, MA**
+: **Sr. Tech Lead (IC Sr.Manager), Data Science (AI & NLP), Enterprise Data Science, CapitalOne, Cambridge, MA**
 
 * Led the IR Team for Agent Assist in developing a state-of-the-art RAG system to support thousands of customer support agents across various lines of business.
 
