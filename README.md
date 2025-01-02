@@ -55,6 +55,9 @@ Technologies
 Granted Patents
 -------------
 
+62/793,611
+:	A system for multi-perspective discourse within a set conversation standards
+
 62/411,947
 : 	MUDRA: Multi-Domain Real-Time Question Answering System    
 
@@ -274,16 +277,9 @@ Filed Patents
 62/869075
 :	Multi-Pass Fine Reading for Machine Comprehension 	
 
-62/793611
-:	A system for multi-perspective discourse within a set conversation standards
-
 
 62/777,278
 :	Systems and methods for augmented reality enhanced field services support
-
-
-62/793611
-:	A system for multi-perspective discourse within a set conversation standards
 
 62/681123
 :	Open domain real-time question answering based on asynchronous multi perspective context driven retrieval and neural paraphrasing 
