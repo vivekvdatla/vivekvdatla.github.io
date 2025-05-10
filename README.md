@@ -329,8 +329,6 @@ Filed Patents
 Invention Disclosures
 -----
 
-
-<<<<<<< HEAD
 1. AI and Machine Learning for Healthcare
    - 2021ID00749: AI Driven complaint mapper to improve Philips Labeling and Internal Documentation (SRAs)
    - 2020ID02075: An approach to generate partially clinically relevant synthetic electronic health records
@@ -411,7 +409,7 @@ Invention Disclosures
     - 2016ID01213: MEDFLIX - Interactive Video-based Summarization of Electronic Medical Records
     - 2016ID00529: Knowledge Discovery from Social Media and Biomedical Literature for Adverse Drug Events
     - 2016ID00332: Classification of Cognitive Bias in Microblogs relative to Healthcare-centric Evidence 
-=======
+
 ### AI and Machine Learning for Healthcare
 2021ID00749
 : AI Driven complaint mapper to improve Philips Labeling and Internal Documentation (SRAs)
@@ -620,8 +618,6 @@ Invention Disclosures
 
 2016ID00332
 : Classification of Cognitive Bias in Microblogs relative to Healthcare-centric Evidence 
-
->>>>>>> d0a3e462d02a709c2f49fabcd52a5c23ca0b2c58
  
 
 
