@@ -1,6 +1,23 @@
 # Vivek V. Datla
 
 AI Research Leader | NLP | RAG Systems | Knowledge Graphs | Clinical AI  
+
+---
+
+<nav>
+  <ul style="display: flex; list-style: none; padding-left: 0; gap: 1rem;">
+    <li><a href="about.html">About</a></li>
+    <li><a href="industry.html">Industry Experience</a></li>
+    <li><a href="academics.html">Academic Experience</a></li>
+    <li><a href="patents.html">Patents</a></li>
+    <li><a href="publications.html">Publications</a></li>
+    <li><a href="awards.html">Awards & Recognitions</a></li>
+    <li><a href="contact.html">Contact</a></li>
+  </ul>
+</nav>
+
+---
+
 🔹 [Google Scholar](https://scholar.google.com/citations?user=Y-BH9OEAAAAJ&hl=en&oi=ao)  
 🔹 [LinkedIn](https://www.linkedin.com/in/vivekdatla/)  
 
@@ -12,14 +29,5 @@ With over 15 years of experience spanning academia and industry, I lead advanced
 
 > "My mission is to advance explainable and trustworthy AI that powers real-world decision-making."
 
-## Quick Links
-
-- [About Me](about.md)
-- [Industry Experience](industry.md)
-- [Academic Experience](academics.md)
-- [Patents](patents.md)
-- [Publications](publications.md)
-- [Awards & Recognitions](awards.md)
-- [Contact](contact.md)
 
 
