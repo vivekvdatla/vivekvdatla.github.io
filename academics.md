@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Academic Experience"
+---
+
 Academic Research Experience
 ----------------------------
 

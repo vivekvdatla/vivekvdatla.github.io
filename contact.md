@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Contact"
+---
+
 Feel free to reach out:
 
 📧 vivekvarmadatla@gmail.com

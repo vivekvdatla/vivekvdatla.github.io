@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Recognition"
+---
+
 Awards & Honors
 -----------
  + 2022: Won best presentation award for Modeling and Analytics Conference.
