@@ -2,4 +2,26 @@ title: Vivek V Datla
 logo: /assets/img/IMG_1712.png
 description: A seasoned Computer Scientist with 15 years of expertise in Natural Language Processing, specializing in Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG) systems.
 show_downloads: false
+
 theme: jekyll-theme-minimal
+
+# Base URL (if your repo is vivekvdatla.github.io, leave blank)
+baseurl: ""
+
+# Enable navigation via config
+just_the_docs:
+  nav:
+    - title: "Home"
+      url: "about"
+    - title: "Industry Research"
+      url: "/industry"
+    - title: "Academic Research"
+      url: "/academics"
+    - title: "Publications"
+      url: "/publications"
+    - title: "Patents"
+      url: "/patents"
+    - title: "Awards & Recognitions"
+      url: "/awards"
+    - title: "Contact"
+      url: "/contact"
