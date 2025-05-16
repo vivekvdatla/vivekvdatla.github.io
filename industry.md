@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Industry Experience"
+---
+
 Professional Experience
 ----------
 2024-Present
