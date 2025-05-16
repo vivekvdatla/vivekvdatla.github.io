@@ -1,41 +1,32 @@
+---
+layout: default
+title: Home
+---
 
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css">
+# **Vivek V. Datla**
+*AI Researcher | NLP | ML Systems | Healthcare AI*
 
-<nav class="navbar navbar-expand-lg navbar-light bg-light">
-  <div class="container-fluid">
-    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
-      <span class="navbar-toggler-icon"></span>
-    </button>
-    <div class="collapse navbar-collapse" id="navbarNav">
-      <ul class="navbar-nav ms-auto">
-        <li class="nav-item">
-          <a class="nav-link" href="/about.html">About</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="/industry.html">Industry Experience</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="/academics.html">Academic Experience</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="/patents.html">Patents</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="/publications.html">Publications</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="/awards.html">Awards & Recognitions</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="/contact.html">Contact</a>
-        </li>
-      </ul>
-    </div>
-  </div>
-</nav>
+Welcome to my AI research portfolio. Here, you’ll find an overview of my work, technical projects, publications, and career highlights. I specialize in building intelligent systems at the intersection of language, knowledge, and real-world deployment.
 
-🔹 [Google Scholar](https://scholar.google.com/citations?user=Y-BH9OEAAAAJ&hl=en&oi=ao)  
-🔹 [LinkedIn](https://www.linkedin.com/in/vivekdatla/) 
-<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+---
 
+## 🔍 Research Focus
+- Trustworthy LLMs, Interpretability
+- Retrieval-Augmented Generation (RAG)
+- Graph-based Learning and Knowledge Embeddings
+- Healthcare AI and Biomedical NLP
 
+---
+
+## 📌 Quick Links
+Use the tabs at the top of the page to navigate:
+
+- **[About Me](./about.md)** – Introduction
+- **[Industry](./industry.md)** – My current and past areas of industry research
+- **[Academia](./academics.md)** – My current and past areas of academic research
+- **[Patents](./patents.md)** – My inventions
+- **[Publications](./publications.md)** – Peer-reviewed papers, patents, and talks
+- **[Awards](./awards.md)** – My awards and recognitions
+- **[Contact](./contact.md)** – How to get in touch
+
+--- 
