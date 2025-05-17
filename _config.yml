@@ -40,4 +40,4 @@ platforms:
     icon: <i class="fa-solid fa-ghost"></i>
     link: ./contact
 
-theme: jekyll-theme-tactile
+remote_theme: vaibhavvikas/jekyll-theme-minimalistic #jekyll-theme-tactile
