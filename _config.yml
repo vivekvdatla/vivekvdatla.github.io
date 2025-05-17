@@ -40,4 +40,4 @@ platforms:
     icon: <i class="fa-solid fa-ghost"></i>
     link: ./contact
 
-theme: jekyll-theme-minimalistic
+theme: jekyll-theme-minimal
