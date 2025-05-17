@@ -1,7 +1,10 @@
 ---
+
 layout: default
 title: "Industry Experience"
+permalink: /industry/
 ---
+
 
 Professional Experience
 ----------

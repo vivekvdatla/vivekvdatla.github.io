@@ -1,7 +1,10 @@
 ---
 layout: default
 title: "Academic Experience"
+permalink: /academics/
 ---
+
+
 
 Academic Research Experience
 ----------------------------
