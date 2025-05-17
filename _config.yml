@@ -3,7 +3,7 @@ logo: /assets/img/IMG_1712.png
 description: A seasoned Computer Scientist with 15 years of expertise in Natural Language Processing, specializing in Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG) systems.
 show_downloads: false
 
-theme: jekyll-theme-minimal
+
 
 # Base URL (if your repo is vivekvdatla.github.io, leave blank)
 baseurl: ""
@@ -25,3 +25,5 @@ just_the_docs:
       url: "/awards"
     - title: "Contact"
       url: "/contact"
+
+theme: jekyll-theme-minimalistic
