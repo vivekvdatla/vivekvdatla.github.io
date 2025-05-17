@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "About"
-permalink: /about/
+title: "Home"
+permalink: /index/
 ---
 
 
@@ -20,14 +20,14 @@ Welcome to my AI research portfolio. Here, you’ll find an overview of my work,
 - Healthcare AI and Biomedical NLP
 
 ---
-
+<!-- 
 ## 📌 Quick Links
 
-- [🏠 Home](./about)
+- [🏠 Home](./index)
 - [💼 Industry Research](./industry)
 - [🎓 Academic Research](./academics)
 - [📄 Publications](./publications)
 - [🔬 Patents](./patents)
 - [🏅 Awards & Recognitions](./awards)
 - [⚙️ Professional Services](./service)
-- [✉️ Contact](./contact)
+- [✉️ Contact](./contact) -->
