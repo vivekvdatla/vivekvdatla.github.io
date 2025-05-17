@@ -1,10 +1,8 @@
 ---
 layout: default
-title: Home
 ---
 
-# **Vivek V. Datla**
-*AI Researcher | NLP | ML Systems | Healthcare AI*
+## *AI Researcher | NLP | ML Systems | Healthcare AI*
 
 Welcome to my AI research portfolio. Here, you’ll find an overview of my work, technical projects, publications, and career highlights. I specialize in building intelligent systems at the intersection of language, knowledge, and real-world deployment.
 
@@ -19,7 +17,6 @@ Welcome to my AI research portfolio. Here, you’ll find an overview of my work,
 ---
 
 ## 📌 Quick Links
-Use the tabs at the top of the page to navigate:
 
 - **[About Me](./about.md)** – Introduction
 - **[Industry](./industry.md)** – My current and past areas of industry research
