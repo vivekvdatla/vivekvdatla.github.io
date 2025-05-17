@@ -3,6 +3,9 @@ layout: default
 title: "About me"
 ---
 
+About Me
+---
+
 I'm a senior AI leader and applied researcher with over 15 years of experience at the intersection of Natural Language Processing, Machine Learning, and Deep Learning. My work is driven by a deep interest in building intelligent systems that solve real-world problems—ranging from clinical decision support and post-market surveillance to scalable customer support automation using LLMs. Currently, I lead the NLP and IR efforts at Capital One, where I architect and deploy Retrieval-Augmented Generation (RAG) systems that assist thousands of agents across multiple lines of business.
 
 Prior to this, I spent nearly a decade at Philips Research, where I led cross-functional teams to design AI solutions for healthcare, successfully transferring over ten technologies into live products. My research contributions have resulted in over 15 granted patents, 35+ filings, and more than 30 peer-reviewed publications. I specialize in large-scale information retrieval, robust QA models, multimodal learning, and knowledge graph-driven inference.
