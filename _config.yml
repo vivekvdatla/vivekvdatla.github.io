@@ -8,22 +8,36 @@ show_downloads: false
 # Base URL (if your repo is vivekvdatla.github.io, leave blank)
 baseurl: ""
 
-# Enable navigation via config
-just_the_docs:
-  nav:
-    - title: "Home"
-      url: "about"
-    - title: "Industry Research"
-      url: "/industry"
-    - title: "Academic Research"
-      url: "/academics"
-    - title: "Publications"
-      url: "/publications"
-    - title: "Patents"
-      url: "/patents"
-    - title: "Awards & Recognitions"
-      url: "/awards"
-    - title: "Contact"
-      url: "/contact"
+plugins:
+  - jekyll-seo-tag
+  - jemoji
+  - jekyll-remote-theme
+  - jekyll-sitemap
+
+platforms:
+  - name: LinkedIn
+    icon: <i class="fa-brands fa-linkedin"></i>
+    link: https://www.linkedin.com/in/vivekdatla
+  - name: Industry Research
+    icon: <i class="fa-solid fa-file-code"></i>
+    link: ./industry
+  - name: Home
+    icon: <i class="fa-solid fa-file-code"></i>
+    link: ./about
+  - name: Academic Research
+    icon: <i class="fa-solid fa-file-code"></i>
+    link: ./academics
+  - name: Publications
+    icon: <i class="fa-solid fa-file-code"></i>
+    link: ./publications
+  - name: Patents
+    icon: <i class="fa-solid fa-file-code"></i>
+    link: ./patents
+  - name: Awards & Recognitions
+    icon: <i class="fa-solid fa-award"></i>
+    link: ./awards
+  - name: Contact
+    icon: <i class="fa-solid fa-ghost"></i>
+    link: ./contact
 
 theme: jekyll-theme-minimalistic
