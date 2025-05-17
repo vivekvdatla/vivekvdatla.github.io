@@ -1,7 +1,7 @@
 
 ---
 layout: default
-title: Patents
+title: "Patents & Inventions"
 ---
 
 Granted Patents
