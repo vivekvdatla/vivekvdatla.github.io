@@ -1,7 +1,13 @@
 ---
 layout: default
-title: "About Me"
+title: "About me"
 ---
+
+I'm a senior AI leader and applied researcher with over 15 years of experience at the intersection of Natural Language Processing, Machine Learning, and Deep Learning. My work is driven by a deep interest in building intelligent systems that solve real-world problems—ranging from clinical decision support and post-market surveillance to scalable customer support automation using LLMs. Currently, I lead the NLP and IR efforts at Capital One, where I architect and deploy Retrieval-Augmented Generation (RAG) systems that assist thousands of agents across multiple lines of business.
+
+Prior to this, I spent nearly a decade at Philips Research, where I led cross-functional teams to design AI solutions for healthcare, successfully transferring over ten technologies into live products. My research contributions have resulted in over 15 granted patents, 35+ filings, and more than 30 peer-reviewed publications. I specialize in large-scale information retrieval, robust QA models, multimodal learning, and knowledge graph-driven inference.
+
+Technically, I work end-to-end—from prototyping with Transformers and PyTorch to orchestrating model deployment with tools like MLflow, Docker, and Kubernetes. I’m equally at home fine-tuning LLMs as I am optimizing inference pipelines or guiding cross-functional AI strategy. My goal is to bridge cutting-edge research with practical impact—making AI not only powerful but useful, interpretable, and accessible.
 
 Education
 ---------
@@ -25,45 +31,3 @@ Career Highlights
 * Published more than **30 papers** in reputable journals and conferences.
 * Successfully transferred 10 technologies to various Philips businesses.
 * Achieved more than **2000+ external citations** as listed on [Google Scholar](https://scholar.google.com/citations?user=Y-BH9OEAAAAJ&hl=en&oi=ao).
-
-
-Professional Activities
---------
-
-+ Technical Program Committee(TPC) Member
-:
-	+ IEEE International Conference on Contemporary Computing - 2018
-	+ American Medical Informatics Association - 2018
-    + IEEE International Conference on Contemporary Computing - 2017
-    + American Association for Artificial Intelligence: Applied Natural Language Processing-FLAIRS - 2018
-    + American Association for Artificial Intelligence: Applied Natural Language Processing-FLAIRS - 2017 
-    + American Association for Artificial Intelligence: Applied Natural Language Processing-FLAIRS - 2016 
-    + IEEE International COnferece on Digital Information Management - 2016
-    + IEEE International Conference on Computing and Network Communications - 2015 
-    + American Association for Artificial Intelligence: Applied Natural Language Processing-Flairs - 2015 
-    + IEEE IPDPS Parallel and Distributed Computing for Large Scale Machine Learning and Big Data Analytics - 2015 
-    + IEEE International Conference on Data Mining - 2015 
-
-
-+ Reviewer for following Journals
-:
-	+ Machine Learning for Healthcare (MLHC) - 2019
-	+ Machine Learning for Healthcare (MLHC) - 2018
-	+ International journal of artificial intelligence tools (IJAIT) 2018
-    + International journal of artificial intelligence tools (IJAIT) 2017
-    + International journal of artificial intelligence tools (IJAIT) 2016 
-    + International journal of artificial intelligence tools (IJAIT) 2016 
-    + International journal of artificial intelligence tools (IJAIT) 2015 
-    + International journal of artificial intelligence tools (IJAIT) 2014 
-    
-
-+ Reviewer for following conferences
-:
-	+ North American Association of Computational Linguistics (NAACL): Clinical NLP - 2019
-	+ North American Association of Computational Linguistics (NAACL): Clinical NLP - 2018
-	+ International Conference on Computational Linguistics ACL - 2018
-    + IEEE SECURECOMM - 2017
-    + American Association for Artificial Intelligence: FLAIRS - 2017
-    + American Association for Artificial Intelligence: FLAIRS - 2016 
-    + American Association for Artificial Intelligence: Applied Natural Language Processing-FLAIRS - 2015 
-    + IEEE WORKS - 2014 
