@@ -25,4 +25,5 @@ Welcome to my AI research portfolio. Here, you’ll find an overview of my work,
 - [📄 Publications](./publications)
 - [🔬 Patents](./patents)
 - [🏅 Awards & Recognitions](./awards)
+- [⚙️ Professional Services](./service)
 - [✉️ Contact](./contact)
