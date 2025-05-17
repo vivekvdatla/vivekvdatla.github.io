@@ -1,7 +1,10 @@
 ---
 layout: default
 title: "Patents and Inventions"
+permalink: /patents/
 ---
+
+
 
 Granted Patents
 -------------

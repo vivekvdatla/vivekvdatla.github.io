@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title>{{ page.title }}</title>
+    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+  </head>
+  <body>
+    <header>
+      <nav>
+        <ul class="navbar">
+          <li><a href="{{ '/about' | relative_url }}">Home</a></li>
+          <li><a href="{{ '/industry' | relative_url }}">Industry</a></li>
+          <li><a href="{{ '/academic' | relative_url }}">Academic</a></li>
+          <li><a href="{{ '/publications' | relative_url }}">Publications</a></li>
+          <li><a href="{{ '/patents' | relative_url }}">Patents</a></li>
+          <li><a href="{{ '/awards' | relative_url }}">Awards</a></li>
+          <li><a href="{{ '/service' | relative_url }}">Service</a></li>
+          <li><a href="{{ '/contact' | relative_url }}">Contact</a></li>
+        </ul>
+      </nav>
+    </header>
+
+    <main>
+      {{ content }}
+    </main>
+  </body>
+</html>
