@@ -14,30 +14,30 @@ plugins:
   - jekyll-remote-theme
   - jekyll-sitemap
 
-platforms:
-  - name: LinkedIn
-    icon: <i class="fa-brands fa-linkedin"></i>
-    link: https://www.linkedin.com/in/vivekdatla
-  - name: Industry Research
-    icon: <i class="fa-solid fa-file-code"></i>
-    link: ./industry
-  - name: Home
-    icon: <i class="fa-solid fa-file-code"></i>
-    link: ./about
-  - name: Academic Research
-    icon: <i class="fa-solid fa-file-code"></i>
-    link: ./academics
-  - name: Publications
-    icon: <i class="fa-solid fa-file-code"></i>
-    link: ./publications
-  - name: Patents
-    icon: <i class="fa-solid fa-file-code"></i>
-    link: ./patents
-  - name: Awards & Recognitions
-    icon: <i class="fa-solid fa-award"></i>
-    link: ./awards
-  - name: Contact
-    icon: <i class="fa-solid fa-ghost"></i>
-    link: ./contact
+# platforms:
+#   - name: LinkedIn
+#     icon: <i class="fa-brands fa-linkedin"></i>
+#     link: https://www.linkedin.com/in/vivekdatla
+#   - name: Industry Research
+#     icon: <i class="fa-solid fa-file-code"></i>
+#     link: ./industry
+#   - name: Home
+#     icon: <i class="fa-solid fa-file-code"></i>
+#     link: ./about
+#   - name: Academic Research
+#     icon: <i class="fa-solid fa-file-code"></i>
+#     link: ./academics
+#   - name: Publications
+#     icon: <i class="fa-solid fa-file-code"></i>
+#     link: ./publications
+#   - name: Patents
+#     icon: <i class="fa-solid fa-file-code"></i>
+#     link: ./patents
+#   - name: Awards & Recognitions
+#     icon: <i class="fa-solid fa-award"></i>
+#     link: ./awards
+#   - name: Contact
+#     icon: <i class="fa-solid fa-ghost"></i>
+#     link: ./contact
 
 theme: jekyll-theme-minimal

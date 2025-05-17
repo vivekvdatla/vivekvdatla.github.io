@@ -1,6 +1,17 @@
+## Platforms
+- [🏠 Home](./about)
+- [🔗 LinkedIn](https://www.linkedin.com/in/vivekdatla)
+- [💼 Industry Research](./industry)
+- [🎓 Academic Research](./academics)
+- [📄 Publications](./publications)
+- [🔬 Patents](./patents)
+- [🏅 Awards & Recognitions](./awards)
+- [✉️ Contact](./contact)
 ---
 layout: default
 title: Vivek V Datla
+
+
 ---
 
 ## *AI Researcher | NLP | ML Systems | Healthcare AI*
@@ -17,7 +28,7 @@ Welcome to my AI research portfolio. Here, you’ll find an overview of my work,
 
 ---
 
-## 📌 Quick Links
+<!-- ## 📌 Quick Links
 
 - **[About Me](./about.md)** – Introduction
 - **[Industry](./industry.md)** – My current and past areas of industry research
@@ -27,4 +38,4 @@ Welcome to my AI research portfolio. Here, you’ll find an overview of my work,
 - **[Awards](./awards.md)** – My awards and recognitions
 - **[Contact](./contact.md)** – How to get in touch
 
---- 
+---  -->
