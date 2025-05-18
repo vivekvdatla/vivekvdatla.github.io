@@ -1,62 +1,38 @@
-.navbar {
-  display: flex;
-  list-style: none;
-  background-color: #f8f8f8;
-  padding: 10px;
-  margin: 0;
-  border-bottom: 1px solid #ddd;
-}
-
-.navbar li {
-  margin-right: 20px;
-}
-
-.navbar a {
-  text-decoration: none;
-  color: #333;
-  font-weight: bold;
-}
-
-.navbar a:hover {
-  color: #007acc;
-}
-
-
 /* Layout containers */
-.layout {
+.container {
   display: flex;
   min-height: 100vh;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
 }
 
-/* Sidebar styling */
 .sidebar {
-  width: 200px;
+  width: 220px;
   background-color: #f4f4f4;
   padding: 20px;
-  box-shadow: 2px 0 4px rgba(0, 0, 0, 0.1);
+  text-align: center;
+  border-right: 1px solid #ddd;
 }
 
 .profile-img {
-  width: 100%;
-  height: auto;
+  max-width: 100%;
   border-radius: 12px;
-  border: 2px solid #ddd;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
 }
 
-/* Main content */
+/* Main Content Area */
 .main-content {
-  flex: 1;
+  flex-grow: 1;
   padding: 20px;
 }
 
-/* Top navigation bar */
+/* Navigation Bar */
 .navbar {
   display: flex;
   list-style: none;
   background-color: #f8f8f8;
   padding: 10px;
-  margin: 0;
   border-bottom: 1px solid #ddd;
+  margin: 0 0 20px 0;
 }
 
 .navbar li {
@@ -71,4 +47,12 @@
 
 .navbar a:hover {
   color: #007acc;
+}
+
+/* Panel Styling */
+.panel {
+  background-color: #fff;
+  padding: 25px;
+  border-radius: 10px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
 }
