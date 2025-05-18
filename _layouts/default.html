@@ -1,22 +1,24 @@
 
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="UTF-8">
-    <title>{{ page.title }}</title>
-    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-  </head>
-  <body>
-    <div class="container">
-      <aside class="sidebar">
-        <img src="{{ '/assets/img/IMG_1712.png' | relative_url }}" alt="Profile Image" class="profile-image" />
-      </aside>
+<head>
+  <meta charset="UTF-8">
+  <title>{{ page.title }}</title>
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+</head>
+<body>
+  <div class="container">
+    <!-- Left Panel -->
+    <aside class="sidebar">
+      <img src="{{ '/assets/img/IMG_1712.png' | relative_url }}" alt="Profile Image" class="profile-image">
+    </aside>
 
-      <main class="main-content">
-        <nav>
-          <ul class="navbar">
-            <li><a href="{{ '/' | relative_url }}" class="{% if page.url == '/' %}active{% endif %}">Home</a></li>
+    <!-- Main Content -->
+    <div class="main-content">
+      <!-- Top Navigation -->
+      <nav class="navbar">
+        <ul>
+          <li><a href="{{ '/' | relative_url }}" class="{% if page.url == '/' %}active{% endif %}">Home</a></li>
             <li><a href="{{ '/industry/' | relative_url }}" class="{% if page.url == '/industry/' %}active{% endif %}">Industry</a></li>
             <li><a href="{{ '/academics/' | relative_url }}" class="{% if page.url == '/academic/' %}active{% endif %}">Academic</a></li>
             <li><a href="{{ '/publications/' | relative_url }}" class="{% if page.url == '/academic/' %}active{% endif %}">Publications</a></li>
@@ -24,13 +26,17 @@
             <li><a href="{{ '/awards/' | relative_url }}" class="{% if page.url == '/academic/' %}active{% endif %}">Awards</a></li>
             <li><a href="{{ '/service/' | relative_url }}" class="{% if page.url == '/academic/' %}active{% endif %}">Service</a></li>
             <li><a href="{{ '/contact/' | relative_url }}" class="{% if page.url == '/contact/' %}active{% endif %}">Contact</a></li>
-          </ul>
-        </nav>
+        </ul>
+      </nav>
 
-        <section class="content-panel">
+      <!-- Page Content -->
+      <main>
+        <section class="content-section">
           {{ content }}
         </section>
       </main>
     </div>
-  </body>
+  </div>
+</body>
 </html>
+
