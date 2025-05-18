@@ -11,6 +11,7 @@
   background-color: #f4f4f4;
   padding: 20px;
   border-right: 1px solid #ddd;
+  flex-direction: column;
   display: flex;
   align-items: center;
   justify-content: flex-start;
