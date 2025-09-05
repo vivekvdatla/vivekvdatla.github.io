@@ -26,10 +26,10 @@ Education
 
 Career Highlights
 --------------------
-* Over 15 years of experience in Academic and Industry Research.
+* Over 16 years of experience in Academic and Industry Research.
 * Expertise in designing, building and deploying production-ready systems utilizing Machine Learning (ML) and Deep Learning (DL) models in Information Retrieval, Question Answering, Visual Question Answering, Knowledge Graphs, and Retrieval-Augmented Generation (RAG) systems.
 * Holder of **15 granted patents** in the areas of NLP and AI.
-* Filed **35 patents** in the areas of NLP and AI.
+* Filed **35 patents** in the areas of NLP and AI. [Patents](https://patents.google.com/?inventor=Vivek+Datla,Vivek+Varma+Datla,VV+Datla&dups=language)
 * Submitted more than **64 Invention Disclosures** in the fields of NLP, ML, and AI.
 * Published more than **30 papers** in reputable journals and conferences.
 * Successfully transferred 10 technologies to various Philips businesses.
