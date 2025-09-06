@@ -9,7 +9,13 @@ permalink: /patents/
 Granted Patents
 -------------
 
-62/411,947
+18/404,357 
+: A system for multi-perspective discourse within a set conversation standards
+
+16/916,697
+: Hierarchical self-attention for machine comprehension
+
+16/342,635
 :   MUDRA: Multi-Domain Real-Time Question Answering System    
 
 16/430,676
@@ -18,10 +24,10 @@ Granted Patents
 16/430,788
 : Open-domain real-time question answering
 
-62/401,293
+16/334,135
 : Systems and Methods for Question Generation with Fact-based Attentive Recurrent Neural Networks
 
-62/454089
+16/491,489
 :   Systems and Methods to Optimize Clinical Decision Support with Deep Reinforcement Learning
 
 16/329,959
@@ -33,7 +39,7 @@ Granted Patents
 15/707,550
 : Condensed Memory Networks
 
-62/406,427 
+16/340,480 
 : Patient-centric Clinical Knowledge Discovery System using Deep Learning, NLP and Voice Services
 
 16/334,135     
@@ -42,7 +48,7 @@ Granted Patents
 16/491,489
 : Drawing conclusions from free form texts with deep reinforcement learning
 
-62/772,764
+16/681,945
 : CRF-based Span Prediction for Fine Machine Reading Comprehension
 
 16/979,199
@@ -51,15 +57,21 @@ Granted Patents
 Filed Patents
 ----
 
+18/383,197
+: Extracting embeddings from multi-party dialogues and mining the embeddings using natural language queries
+
+18/494,850
+: Methods and systems for categorizing cyber incident logs featuring dynamic relationships to pre-existing cyber incident reports in real-time
+
 62/891787
 : System for Automated Dynamic Guidance for DIY Projects 
+
+18/231,484
+: System, method and storage medium for extracting targeted medical information from clinical notes
 
 
 62/869075
 :	Multi-Pass Fine Reading for Machine Comprehension 	
-
-62/793611
-:	A system for multi-perspective discourse within a set conversation standards
 
 
 62/777,278
