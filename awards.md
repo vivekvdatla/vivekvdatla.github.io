@@ -7,6 +7,7 @@ permalink: /awards/
 
 Awards & Honors
 -----------
+ + 2025: Won the **Circle of Excellence Award** (Highest honor in Capital One) for Agent Assist
  + 2023: Won the CIO Elite Award for Agent Assist
  + 2023: Won the TechX award for Agent Assist
  + 2022: Won best presentation award for Modeling and Analytics Conference.
