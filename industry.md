@@ -12,7 +12,7 @@ Professional Experience
 
 : **Sr.Manager, Data Science (AI & NLP), Enterprise Data Science, CapitalOne, Cambridge, MA**
 
-* Led the IR Team for Agent Assist in developing a state-of-the-art RAG system to support thousands of customer support agents across various lines of business.
+* Leading the IR Team for Agent Assist in developing a state-of-the-art RAG system to support thousands of customer support agents across various lines of business.
 
 * Enhanced IR systems by integrating cross-encoder re-rankers, hybrid search methodologies, and dynamic configurations. Key optimization strategies included user preference re-ranking, ranked fusion, entropy-based selection of top preferences, and nucleus thresholding for retrieval.
 
