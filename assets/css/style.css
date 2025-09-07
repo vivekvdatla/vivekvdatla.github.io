@@ -73,3 +73,11 @@
   box-shadow: 0 0 8px rgba(0,0,0,0.05);
   max-width: 960px;
 }
+
+@import "{{ site.theme }}";
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap');
+
+body {
+  font-family: 'Montserrat', sans-serif;
+}
+
