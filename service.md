@@ -25,6 +25,7 @@ Professional Activities
 
 + Reviewer for following Journals
 :
+
 	+ Machine Learning for Healthcare (MLHC) - 2020
  	+ Machine Learning for Healthcare (MLHC) - 2019
 	+ Machine Learning for Healthcare (MLHC) - 2018
