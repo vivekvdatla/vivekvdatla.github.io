@@ -27,8 +27,8 @@ Professional Activities
 :
 
 	+ Machine Learning for Healthcare (MLHC) - 2020
- 	+ Machine Learning for Healthcare (MLHC) - 2019
-	+ Machine Learning for Healthcare (MLHC) - 2018
+    + Machine Learning for Healthcare (MLHC) - 2019
+    + Machine Learning for Healthcare (MLHC) - 2018
 	+ International journal of artificial intelligence tools (IJAIT) 2018
     + International journal of artificial intelligence tools (IJAIT) 2017
     + International journal of artificial intelligence tools (IJAIT) 2016 
@@ -39,6 +39,7 @@ Professional Activities
 
 + Reviewer for following conferences
 :
+    + ACL
 	+ North American Association of Computational Linguistics (NAACL): Clinical NLP - 2019
 	+ North American Association of Computational Linguistics (NAACL): Clinical NLP - 2018
 	+ International Conference on Computational Linguistics ACL - 2018
