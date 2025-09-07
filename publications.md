@@ -24,6 +24,11 @@ IJCLA
 Conferences and Workshops
 ---
 
+ICML'25
+
+: Anoop Kumar, Alfy Samuel, **Vivek Datla**, Geoff Pleiss, Sanghamitra Dutta, Michael Kirchhof. 2025. Uncertainty Estimation in LLM-Generated Content
+
+
 COLING'25
 
 : Chi Zhang, **Vivek V. Datla**, Aditya Shrivastava, Alfy Samuel, Zhiqi Huang, Anoop Kumar, and Daben Liu. 2025. An Automatic Method to Estimate Correctness of RAG. In Proceedings of the 31st International Conference on Computational Linguistics: Industry Track, pages 603–611, Abu Dhabi, UAE. Association for Computational Linguistics.
