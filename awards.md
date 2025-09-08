@@ -4,7 +4,6 @@ title: "Awards & Honors"
 permalink: /awards/
 ---
 
-## Awards & Honors
 
 ## Major Industry Awards
 
