@@ -18,7 +18,9 @@ My current interests center on trustworthy LLMs—meaning-aware uncertainty (e.g
 ## Education
 
 **Ph.D., Computer Science**, University of Memphis, TN — *2009–2014*
+
 **M.S., Computer Science**, University of Memphis, TN — *2006–2008*
+
 **B.Tech., Electronics & Communication Engg.**, JNTU, India — *2001–2005*
 
 ---
