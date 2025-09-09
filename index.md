@@ -27,7 +27,7 @@ My current interests center on trustworthy LLMs—meaning-aware uncertainty (e.g
 
 ## Core Strengths
 
-* **IR/RAG Architecture:** Hybrid retrieval (BM25 + dense + SPLADE), **cross‑encoder re‑ranking**, late‑fusion, user‑preference boosting, **entropy/nucleus thresholding**, dynamic index routing, **document chunking & windowing**, query rewriting & intent routing.
+* **IR/RAG Architecture:** Hybrid retrieval (BM25 + dense + colbert), **cross‑encoder re‑ranking**, late‑fusion, user‑preference boosting, **entropy/nucleus thresholding**, dynamic index routing, **document chunking & windowing**, query rewriting & intent routing.
 * **Trust & Safety for LLMs:** Abstention, refusal sensitivity vs. utility trade‑offs, **semantic entropy**, **MARS‑style meaning‑aware scoring**, DetectGPT‑style detectors, confidence calibration, provenance tracing for **pretrain vs. context** attribution.
 * **Scalable ML Delivery:** Model/product roadmaps, experiment platforms, evaluation harnesses, **guardrails**, CI/CD for models, **observability (drift, latency, quality)**, on‑call runbooks.
 * **Leadership:** Hiring/mentoring, stakeholder alignment, value stream ownership (\~\$2M), program management across research → product.
@@ -41,7 +41,7 @@ My current interests center on trustworthy LLMs—meaning-aware uncertainty (e.g
 **LLMs/Serving:** Llama‑2/3, Mistral, GPT‑4/4o/4.1, T5/Flan, **vLLM**, **Text Generation Inference (TGI)**, **TensorRT‑LLM**, **Triton Inference Server**
 **Fine‑Tuning:** LoRA/QLoRA, Adapters/IA3, P‑tuning, Prefix/Prompt/Instruction tuning; **mixed‑precision**, gradient/ZeRO sharding
 **Optimization:** Quantization (8‑/4‑bit), **FlashAttention**, speculative decoding, KV‑cache management
-**RAG & IR:** Faiss, Milvus, pgvector, Elasticsearch/OpenSearch, **ColBERT**, SPLADE; monoT5/monoBERT/CE‑rerankers; query rewriting, hyde/self‑ask, **long‑context chunking**
+**RAG & IR:** Faiss, Milvus, pgvector, Elasticsearch/OpenSearch, **ColBERT**; monoT5/monoBERT/CE‑rerankers; query rewriting, hyde/self‑ask, **long‑context chunking**
 **Graphs:** PyKEEN (RotatE/QuatE/PairRE/HousE), NetworkX, Neo4j
 **MLOps/Platforms:** MLflow, Weights & Biases, Kubeflow, Airflow, **Docker**, **Kubernetes**, **Ray/Dask**, GitHub Actions/CI
 **Data/ETL:** Pandas, NumPy, Apache Arrow, Spark, Kafka, Hadoop, RabbitMQ
