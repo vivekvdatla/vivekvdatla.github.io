@@ -53,7 +53,7 @@ My current interests center on trustworthy LLMs—meaning-aware uncertainty (e.g
 ## Selected Impact & Achievements
 
 * **Capital One Agent‑Assist (IR/RAG):** Led the IR team to a **state‑of‑the‑art RAG** platform for call‑center agents; deployed **cross‑encoder re‑rankers**, **hybrid retrieval**, and **ranked‑fusion** with **entropy‑gated answerability**, improving top‑k precision and reducing handle‑time (HT) and AHT variance.
-* **Trustworthy Responses:** Shipped abstention & uncertainty pipelines (semantic entropy + nucleus thresholds) that reduced unsafe generations while maintaining task utility; introduced **user‑preference re‑ranking** and **dynamic profile routing**.
+* **Trustworthy Responses:** Shipped abstention & uncertainty pipelines that reduced unsafe generations while maintaining task utility; introduced **user‑preference re‑ranking** and **dynamic profile routing**.
 * **Tech Transfer (Philips):** Drove **10+** research‑to‑product transfers (clinical de‑identification, knowledge‑graph‑assisted diagnosis, DSP assets, ICON semantic search).
 * **IP & Publications:** **15 granted** patents, **35+ filed**, **64+ invention disclosures**; **30+ publications** (NAACL, COLING, AAAI, WWW, BHI, MLHC, TREC).
 * **Awards:** **Circle of Excellence (2025)**—Capital One’s highest honor; **CIO Elite (2023)**; **TechX (2023)**.
