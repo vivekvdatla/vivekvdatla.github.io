@@ -6,13 +6,13 @@ title: "About me"
 About Me
 ---
 
-I’m a senior AI leader and applied researcher with 16+ years building production-grade NLP systems at scale. My current focus in the last two years has been in the areas of information retrieval (IR) and retrieval-augmented generation (RAG). At Capital One, I lead NLP/IR areas of agent-assist, which includes dynamic hybrid retrieval (BM25 + dense + SPLADE), cross-encoder re-ranking (monoT5/monoBERT/CE), ranked fusion, and user preference re-ranking (semantic-entropy/nucleus thresholds) that assist more than 21K+ agents across multiple lines of business.
+I’m a senior AI leader and applied researcher with 16+ years building production-grade NLP systems at scale. My current focus in the last two years has been in the areas of information retrieval (IR) and retrieval-augmented generation (RAG). At Capital One, I lead NLP/IR areas of agent-assist, which includes proactive agent assist, dynamic hybrid retrieval (BM25 + dense + SPLADE), cross-encoder re-ranking (monoT5/monoBERT/CE), ranked fusion, and user preference re-ranking (semantic-entropy/nucleus thresholds) that assist more than 21K+ agents across multiple lines of business.
 
 Previously at Philips Research, I directed cross-functional teams delivering healthcare AI from lab to product, transferring 10+ technologies into production. My research portfolio includes 15+ granted patents, 35+ filings, and 30+ peer-reviewed publications spanning robust QA, multimodal learning (VQA-Med), and knowledge-graph–driven inference.
 
 I operate end-to-end: problem framing → data/ETL → modeling → evaluation → rollout. Tooling includes PyTorch, Hugging Face (Transformers/PEFT: LoRA/QLoRA), Sentence-Transformers, Faiss/Milvus/pgvector, OpenSearch/Elasticsearch, PyKEEN/Neo4j, and modern serving stacks (vLLM, TGI, Triton, TensorRT-LLM) with mixed precision, quantization (8/4-bit), FlashAttention, and KV-cache optimizations. On the platform side: MLflow/W&B, Airflow, Docker/Kubernetes, Ray/Dask, and production observability (Prometheus/Grafana/ELK) with quality SLOs, drift monitors, and A/B harnesses.
 
-My current interests center on trustworthy LLMs—meaning-aware uncertainty (e.g., semantic entropy/MARS-style scoring), confidence calibration, hallucination mitigation, and provenance tracing that distinguishes pretraining vs. context-driven knowledge in RAG. The throughline in my work is turning cutting-edge research into reliable, interpretable, cost-efficient systems that create measurable business and user impact.
+My current interests center on trustworthy LLMs—meaning-aware uncertainty (e.g., semantic entropy/MARS-style scoring), safety alignment, confidence calibration, hallucination mitigation, and provenance tracing that distinguishes pretraining vs. context-driven knowledge in RAG. The throughline in my work is turning cutting-edge research into reliable, interpretable, cost-efficient systems that create measurable business and user impact.
 
 
 ## Education

@@ -18,9 +18,13 @@ permalink: /publications/
 
 ## Conferences & Workshops
 
+
+
+* Huang, Zhiqi, **Vivek Datla**, Chenyang Zhu, Alfy Samuel, Daben Liu, Anoop Kumar, and Ritesh Soni. "Confidence-Based Response Abstinence: Improving LLM Trustworthiness via Activation-Based Uncertainty Estimation." In Workshop on Uncertainty-Aware NLP (UncertaiNLP 2025), p. 184. 2025. (Co-first Author)
+
 * Kumar, A., Samuel, A., **Vivek Datla**, Pleiss, G., Dutta, S., & Kirchhof, M. (2025). Uncertainty Estimation in LLM-Generated Content. *ICML ’25*.
 
-* Zhang, C., **Vivek V. Datla**, Shrivastava, A., Samuel, A., Huang, Z., Kumar, A., & Liu, D. (2025). An Automatic Method to Estimate Correctness of RAG. In *Proceedings of the 31st International Conference on Computational Linguistics (COLING ’25): Industry Track* (pp. 603–611). Abu Dhabi, UAE: Association for Computational Linguistics.
+* Zhang, C., **Vivek V. Datla**, Shrivastava, A., Samuel, A., Huang, Z., Kumar, A., & Liu, D. (2025). An Automatic Method to Estimate Correctness of RAG. In *Proceedings of the 31st International Conference on Computational Linguistics (COLING ’25): Industry Track* (pp. 603–611). Abu Dhabi, UAE: Association for Computational Linguistics. (Co-first Author)
 
 * Ionescu, B., Müller, H., Péteri, R., D. Cid, Y., Liauchuk, V., Kovalev, V., Klimuk, D., Tarasau, A., Abacha, A. B., Hasan, S. A., & **Datla, V.** (2019, September). ImageCLEF 2019: Multimedia retrieval in medicine, lifelogging, security and nature. In *International Conference of the Cross-Language Evaluation Forum for European Languages* (pp. 358–386). Springer, Cham.
 
