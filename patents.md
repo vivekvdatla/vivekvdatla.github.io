@@ -10,23 +10,23 @@ permalink: /patents/
 
 ## Granted Patents
 
-| Application No. | Title                                                                                            |
-| --------------- | ------------------------------------------------------------------------------------------------ |
-| `18/404,357`    | A System for Multi‑Perspective Discourse within a Set Conversation Standards                     |
-| `16/916,697`    | Hierarchical Self‑Attention for Machine Comprehension                                            |
-| `16/342,635`    | MUDRA: Multi‑Domain Real‑Time Question Answering System                                          |
-| `16/430,676`    | Neural Text Simplification by Jointly Learning Semantic Alignment and Simplicity                 |
-| `16/430,788`    | Open‑Domain Real‑Time Question Answering                                                         |
-| `16/334,135`    | Systems and Methods for Question Generation with Fact‑Based Attentive Recurrent Neural Networks  |
-| `16/491,489`    | Systems and Methods to Optimize Clinical Decision Support with Deep Reinforcement Learning       |
-| `16/329,959`    | Semi‑Supervised Classification with Stacked Autoencoder                                          |
-| `16/330,174`    | Systems and Methods for Diagnostic Inferencing with Multimodal Deep Memory Networks              |
-| `15/707,550`    | Condensed Memory Networks                                                                        |
-| `16/340,480`    | Patient‑Centric Clinical Knowledge Discovery System Using Deep Learning, NLP, and Voice Services |
-| `16/334,135`    | Systems and Methods for Question Generation with Fact‑Based Attentive Recurrent Neural Networks  |
-| `16/491,489`    | Drawing Conclusions from Free‑Form Texts with Deep Reinforcement Learning                        |
-| `16/681,945`    | CRF‑Based Span Prediction for Fine Machine Reading Comprehension                                 |
-| `16/979,199`    | Haptic Input Text Generation                                                                     |
+| Patent No.     | Application No. | Title                                                                                            |
+| -------------- | --------------- | ------------------------------------------------------------------------------------------------ |
+| `US11868720`   | `17/420,750`    | System for Multi‑Perspective Discourse within a Dialog                                           |
+|                | `18/404,357`    | A System for Multi‑Perspective Discourse within a Set Conversation Standards                     |
+| `US11721335`   | `16/916,697`    | Hierarchical Self‑Attention for Machine Comprehension                                            |
+| `US11822605`   | `16/342,635`    | MUDRA: Multi‑Domain Real‑Time Question Answering System                                          |
+| `US11042712`   | `16/430,676`    | Neural Text Simplification by Jointly Learning Semantic Alignment and Simplicity                 |
+| `US11232261`   | `16/430,788`    | Open‑Domain Real‑Time Question Answering                                                         |
+| `US11294942`   | `16/334,135`    | Systems and Methods for Question Generation with Fact‑Based Attentive Recurrent Neural Networks  |
+| `US11670420`   | `16/491,489`    | Drawing Conclusions from Free‑Form Texts with Deep Reinforcement Learning                        |
+| `US11544529`   | `16/329,959`    | Semi‑Supervised Classification with Stacked Autoencoder                                          |
+| `US11621075`   | `16/330,174`    | Systems and Methods for Diagnostic Inferencing with Multimodal Deep Memory Networks              |
+| `US11620506`   | `15/707,550`    | Condensed Memory Networks                                                                        |
+| `US11544587`   | `16/340,480`    | Patient‑Centric Clinical Knowledge Discovery System Using Deep Learning, NLP, and Voice Services |
+| `US11295861`   | `16/478,940`    | Extracted Concept Normalization Using External Evidence                                          |
+| `US11544259`   | `16/681,945`    | CRF‑Based Span Prediction for Fine Machine Reading Comprehension                                 |
+| `US11449143`   | `16/979,199`    | Haptic Input Text Generation                                                                     |
 
 ---
 
@@ -34,6 +34,7 @@ permalink: /patents/
 
 | Application No. | Title                                                                                                                                        |
 | --------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
+| `18/843,357`    | Systems and Methods for Assessing Predictive Weights in Natural Language Processing                                                          |
 | `18/383,197`    | Extracting Embeddings from Multi‑Party Dialogues and Mining the Embeddings Using Natural Language Queries                                    |
 | `18/494,850`    | Methods and Systems for Categorizing Cyber Incident Logs Featuring Dynamic Relationships to Pre‑Existing Cyber Incident Reports in Real‑Time |
 | `62/891,787`    | System for Automated Dynamic Guidance for DIY Projects                                                                                       |
